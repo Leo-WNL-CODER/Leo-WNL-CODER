@@ -39,11 +39,9 @@ A Retrieval-Augmented Generation system built around **semantic search, embeddin
 
 A collection of Solana programs built with **Rust and Anchor**, exploring escrow, multisig, token operations, PDAs, and cross-program interactions.
 
-[Escrow Program](https://github.com/Leo-WNL-CODER/Escrow)
-
-[Amm-Program](https://github.com/Leo-WNL-CODER/Amm-Program)
-
-[Multisig Program](https://github.com/Leo-WNL-CODER/MultiSig-Contract)
+- [Escrow Program](https://github.com/Leo-WNL-CODER/Escrow)
+- [AMM Program](https://github.com/Leo-WNL-CODER/Amm-Program)
+- [Multisig Program](https://github.com/Leo-WNL-CODER/MultiSig-Contract)
 
 ---
 
@@ -53,13 +51,13 @@ A full-stack coding platform supporting **online code execution, automated judgi
 
 ---
 
-### 💻 [Anti-spoofing-system](https://github.com/Leo-WNL-CODER/Anti-spoofing-system)
+### 🛡️ [Anti-Spoofing System](https://github.com/Leo-WNL-CODER/Anti-spoofing-system)
 
-**YOLO**-based **deep learning** model ,detects **Identity manipulation via 3D models and fake images**.
+A **YOLO-based deep learning model** for detecting identity manipulation using **3D models and fake images**.
 
-Trained on a **curated dataset of 7,000 real-time images using Python, OpenCV, and Mediapipe**.
+Trained on a **curated dataset of 7,000 images** using **Python, OpenCV, and MediaPipe**.
 
-Build as an **academic project**.
+Built as an **academic project**.
 
 ---
 
@@ -83,15 +81,15 @@ Machine Learning · RAG · Embeddings · Vector Search · LLM Applications
 
 <p align="left">
   <a href="https://github.com/Leo-WNL-CODER">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/anuj-singh-rawat-31883028a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/leo_rustDev">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Anuj_Singh_Rawat/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
