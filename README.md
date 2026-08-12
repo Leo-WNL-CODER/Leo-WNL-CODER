@@ -21,29 +21,6 @@ Currently, I'm focused on **Rust, systems programming, Solana development, and A
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-- Rust
-- C++
-- Python
-- TypeScript
-- JavaScript
-
-### Databases
-
-- PostgreSQL
-- Redis
-- Qdrant
-
-### Version Control
-
-- Git
-- GitHub
-
----
-
 ## 🔥 Featured Projects
 
 ### ⚡ [Rust Order Matching Engine](https://github.com/Leo-WNL-CODER/Order-book/blob/main/readme.md)
@@ -58,9 +35,15 @@ A Retrieval-Augmented Generation system built around **semantic search, embeddin
 
 ---
 
-### ⛓️ [Solana Smart Contracts](https://github.com/Leo-WNL-CODER/Escrow)
+### ⛓️ Solana Smart Contracts
 
 A collection of Solana programs built with **Rust and Anchor**, exploring escrow, multisig, token operations, PDAs, and cross-program interactions.
+
+[Escrow Program](https://github.com/Leo-WNL-CODER/Escrow)
+
+[Amm-Program](https://github.com/Leo-WNL-CODER/Amm-Program)
+
+[Multisig Program](https://github.com/Leo-WNL-CODER/MultiSig-Contract)
 
 ---
 
