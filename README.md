@@ -80,9 +80,6 @@ Machine Learning · RAG · Embeddings · Vector Search · LLM Applications
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Leo-WNL-CODER">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/anuj-singh-rawat-31883028a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
