@@ -21,6 +21,15 @@ Currently, I'm focused on **Rust, systems programming, Solana development, and A
 
 ---
 
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leo-WNL-CODER&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leo-WNL-CODER&theme=tokyonight" />
+</p>
+
+---
+
 ## 🔥 Featured Projects
 
 ### ⚡ [Rust Order Matching Engine](https://github.com/Leo-WNL-CODER/Order-book/blob/main/readme.md)
@@ -61,14 +70,6 @@ Built as an **academic project**.
 
 ---
 
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leo-WNL-CODER&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leo-WNL-CODER&theme=tokyonight" />
-</p>
-
----
 ## 🧠 Areas of Interest
 
 **Systems Engineering**  
