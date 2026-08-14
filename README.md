@@ -61,6 +61,13 @@ Built as an **academic project**.
 
 ---
 
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-WNL-CODER&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 ## 🧠 Areas of Interest
 
 **Systems Engineering**  
